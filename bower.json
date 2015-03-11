@@ -1,0 +1,24 @@
+{
+  "name": "css-naked-day.js",
+  "main": "css-naked-day.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/johnie/css-naked-day.js",
+  "authors": [
+    "Johnie Hjelm <johnie.hjelm@symbio.com>"
+  ],
+  "description": "Shit happens when you party naked.",
+  "keywords": [
+    "css-naked-day",
+    "css",
+    "naked"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ]
+}
