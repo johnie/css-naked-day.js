@@ -9,8 +9,8 @@
   if (typeof define === 'function' && define.amd) {
     define([], factory);
   } else if (typeof exports === 'object') {
-		exports.cssNakedDay = factory();
-	} else {
+    exports.cssNakedDay = factory();
+  } else {
     root.cssNakedDay = factory();
   }
 }(this, function () {
