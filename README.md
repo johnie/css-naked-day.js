@@ -1,6 +1,6 @@
 # css-naked-day.js
 
-> Make your website feel endless.
+> Shit happens when you party naked.
 
 ## Install
 
